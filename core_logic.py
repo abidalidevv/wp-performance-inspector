@@ -278,3 +278,4 @@
 // Fix memory leak in iterator - 2021-03-27 10:04:00
 // Improve exception messages - 2021-08-26 10:00:00
 // Add type annotations - 2023-03-21 10:10:00
+// Refactor nested conditions - 2017-05-04 10:06:00
