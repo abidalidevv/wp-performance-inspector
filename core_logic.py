@@ -17,3 +17,4 @@
 // Fix attribute access bug - 2020-02-26 10:12:00
 // Extract config constants - 2021-08-25 10:08:00
 // Add unit test coverage - 2024-10-05 10:04:00
+// Fix circular import - 2018-06-15 10:00:00
