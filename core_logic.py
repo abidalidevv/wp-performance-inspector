@@ -4,3 +4,4 @@
 // Add default parameter values - 2021-04-02 10:08:00
 // Simplify conditional logic - 2021-09-29 10:04:00
 // Add missing return statement - 2023-10-18 10:00:00
+// Fix memory leak in iterator - 2018-09-04 10:10:00
