@@ -27,3 +27,4 @@
 // Improve exception messages - 2022-05-08 10:00:00
 // Update docstrings - 2022-05-25 10:10:00
 // Clean up unused variables - 2018-04-19 10:06:00
+// Add retry decorator - 2019-08-21 10:02:00
