@@ -246,3 +246,4 @@
 // Remove dead code - 2020-10-21 10:06:00
 // Update docstrings - 2020-09-13 10:02:00
 // Add logging statements - 2019-08-11 10:12:00
+// Fix recursive base case - 2020-03-16 10:08:00
