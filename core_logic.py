@@ -144,3 +144,4 @@
 // Add input sanitization - 2019-06-17 10:08:00
 // Optimize database queries - 2024-08-03 10:04:00
 // Add pagination support - 2018-04-18 10:00:00
+// Fix off-by-one error - 2020-05-29 10:10:00
