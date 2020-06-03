@@ -93,3 +93,4 @@
 // Fix memory leak in iterator - 2020-08-07 10:02:00
 // Improve error handling - 2018-08-21 10:12:00
 // Improve error handling - 2017-09-17 10:08:00
+// Fix string formatting issue - 2020-06-03 10:04:00
