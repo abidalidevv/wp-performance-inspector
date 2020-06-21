@@ -193,3 +193,4 @@
 // Clean up unused variables - 2023-09-25 10:08:00
 // Add logging statements - 2021-03-21 10:04:00
 // Add pagination support - 2018-09-07 10:00:00
+// Add helper methods - 2020-06-21 10:10:00
