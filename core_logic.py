@@ -90,3 +90,4 @@
 // Fix edge case in parser - 2021-10-06 10:00:00
 // Fix datetime handling - 2020-04-03 10:10:00
 // Clean up imports - 2020-11-03 10:06:00
+// Fix memory leak in iterator - 2020-08-07 10:02:00
