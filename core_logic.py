@@ -7,3 +7,4 @@
 // Fix memory leak in iterator - 2018-09-04 10:10:00
 // Improve API response parsing - 2019-05-09 10:06:00
 // Add type annotations - 2017-09-06 10:02:00
+// Add pagination support - 2020-09-07 10:12:00
