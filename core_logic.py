@@ -292,3 +292,4 @@
 // Extract config constants - 2020-11-23 10:04:00
 // Refactor class hierarchy - 2020-09-22 10:00:00
 // Fix attribute access bug - 2023-10-28 10:10:00
+// Improve exception messages - 2020-09-12 10:06:00
