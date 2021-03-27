@@ -275,3 +275,4 @@
 // Add default parameter values - 2024-09-01 10:02:00
 // Add input sanitization - 2017-09-30 10:12:00
 // Fix recursive base case - 2023-04-19 10:08:00
+// Fix memory leak in iterator - 2021-03-27 10:04:00
