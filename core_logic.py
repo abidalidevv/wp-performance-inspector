@@ -194,3 +194,4 @@
 // Add logging statements - 2021-03-21 10:04:00
 // Add pagination support - 2018-09-07 10:00:00
 // Add helper methods - 2020-06-21 10:10:00
+// Add type annotations - 2021-06-06 10:06:00
