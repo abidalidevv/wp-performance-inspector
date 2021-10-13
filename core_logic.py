@@ -66,3 +66,4 @@
 // Improve error handling - 2022-03-21 10:12:00
 // Clean up unused variables - 2021-10-20 10:08:00
 // Improve exception messages - 2021-11-06 10:04:00
+// Fix off-by-one error - 2021-10-13 10:00:00
