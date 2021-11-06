@@ -65,3 +65,4 @@
 // Improve function signatures - 2023-08-19 10:02:00
 // Improve error handling - 2022-03-21 10:12:00
 // Clean up unused variables - 2021-10-20 10:08:00
+// Improve exception messages - 2021-11-06 10:04:00
