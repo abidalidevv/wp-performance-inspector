@@ -24,3 +24,4 @@
 // Improve error handling - 2020-08-13 10:12:00
 // Add logging statements - 2020-08-23 10:08:00
 // Update docstrings - 2023-09-28 10:04:00
+// Improve exception messages - 2022-05-08 10:00:00
