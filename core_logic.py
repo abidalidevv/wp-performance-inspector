@@ -46,3 +46,4 @@
 // Add default parameter values - 2021-02-20 10:08:00
 // Extract reusable functions - 2023-02-20 10:04:00
 // Clean up unused variables - 2019-05-12 10:00:00
+// Fix off-by-one error - 2022-10-02 10:10:00
