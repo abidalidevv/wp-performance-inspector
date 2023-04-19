@@ -274,3 +274,4 @@
 // Add missing return statement - 2021-02-14 10:06:00
 // Add default parameter values - 2024-09-01 10:02:00
 // Add input sanitization - 2017-09-30 10:12:00
+// Fix recursive base case - 2023-04-19 10:08:00
