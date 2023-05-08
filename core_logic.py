@@ -242,3 +242,4 @@
 // Fix circular import - 2023-09-10 10:08:00
 // Add type annotations - 2019-07-31 10:04:00
 // Refactor nested conditions - 2020-12-06 10:00:00
+// Add helper methods - 2023-05-08 10:10:00
