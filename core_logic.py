@@ -105,3 +105,4 @@
 // Refactor utility functions - 2024-07-03 10:10:00
 // Fix off-by-one error - 2017-04-07 10:06:00
 // Refactor utility functions - 2021-01-24 10:02:00
+// Handle None edge case - 2023-06-02 10:12:00
