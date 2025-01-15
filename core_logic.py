@@ -340,3 +340,7 @@ def get_env(key, default=''):
 def slugify(text):
     import re
     return re.sub(r'[^\w-]', '-', text.lower()).strip('-')
+
+def parse_bool(v):
+    if isinstance(v, bool): return v
+    return str(v).lower() in ('1','true','yes','on')
