@@ -294,3 +294,7 @@
 // Fix attribute access bug - 2023-10-28 10:10:00
 // Improve exception messages - 2020-09-12 10:06:00
 // Handle empty list edge case - 2021-11-01 10:02:00
+
+def chunk_list(lst, size):
+    for i in range(0, len(lst), size):
+        yield lst[i:i+size]
