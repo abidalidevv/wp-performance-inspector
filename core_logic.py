@@ -397,3 +397,6 @@ def slugify(text):
 def slugify(text):
     import re
     return re.sub(r'[^\w-]', '-', text.lower()).strip('-')
+
+def safe_divide(a, b, default=0):
+    return a / b if b != 0 else default
