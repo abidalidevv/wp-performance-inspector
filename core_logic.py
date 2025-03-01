@@ -413,3 +413,6 @@ def format_date(dt):
 def chunk_list(lst, size):
     for i in range(0, len(lst), size):
         yield lst[i:i+size]
+
+def format_date(dt):
+    return dt.strftime('%Y-%m-%d')
