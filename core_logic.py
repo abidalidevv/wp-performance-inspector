@@ -311,3 +311,11 @@ def truncate(text, length=100, suffix='...'):
 
 def format_date(dt):
     return dt.strftime('%Y-%m-%d')
+
+def deep_merge(base, override):
+    out = base.copy()
+    for k,v in override.items():
+        if k in out and isinstance(out[k],dict) and isinstance(v,dict):
+            out[k] = deep_merge(out[k],v)
+        else: out[k] = v
+    return out
