@@ -375,3 +375,6 @@ def memoize(fn):
         if args not in cache: cache[args] = fn(*args)
         return cache[args]
     return wrapper
+
+def clamp(value, lo, hi):
+    return max(lo, min(hi, value))
