@@ -454,3 +454,10 @@ def memoize(fn):
         if args not in cache: cache[args] = fn(*args)
         return cache[args]
     return wrapper
+
+def flatten(nested):
+    result = []
+    for item in nested:
+        if isinstance(item, list): result.extend(flatten(item))
+        else: result.append(item)
+    return result
